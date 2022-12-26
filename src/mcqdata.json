@@ -1,0 +1,133 @@
+[ 
+    
+     
+    {
+        "id": 1,
+        "title":"React JS Assessment",
+        "Question": "In which language is React.js written?",
+        "options": [{
+                "id": 1,
+                "text": "java",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Javascript",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Python",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "text": "C++",
+                "isCorrect": false
+            }
+        ]
+    },
+    
+    {
+        "id": 2,
+        "Question": "What is Babel?",
+        "options": [{
+                "id": 5,
+                "text": "Javascript Compiler",
+                "isCorrect": true
+            },
+            {
+                "id": 6,
+                "text": "Javascript Interpreter",
+                "isCorrect": false
+            },
+            {
+                "id": 7,
+                "text": "Javascript Translator",
+                "isCorrect": false
+            },
+            {
+                "id": 8,
+                "text": "None of the Above",
+                "isCorrect": false
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "Question": "React is a ________",
+        "options": [{
+                "id": 9,
+                "text": "javascript Framework",
+                "isCorrect": false
+            },
+            {
+                "id": 10,
+                "text": "Javascript Library",
+                "isCorrect": true
+            },
+            {
+                "id": 11,
+                "text": "Both a and b",
+                "isCorrect": false
+            },
+            {
+                "id": 12,
+                "text": "None of the Above",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "Question": "Why is ref used?",
+        "options": [{
+                "id": 13,
+                "text": "to bind the function",
+                "isCorrect": false
+            },
+            {
+                "id": 14,
+                "text": "to call a function",
+                "isCorrect": false
+            },
+            {
+                "id": 15,
+                "text": "to Directly access the DOM Node",
+                "isCorrect": true
+            },
+            {
+                "id": 16,
+                "text": "to refer to another JS File",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following is used in React.js to increase performance?",
+        "options": [{
+                "id": 17,
+                "text": "Virtual DOM",
+                "isCorrect": true
+            },
+            {
+                "id": 18,
+                "text": "Original DOM",
+                "isCorrect": false
+            },
+            {
+                "id": 19,
+                "text": "Both A and B",
+                "isCorrect": false
+            },
+            {
+                "id": 20,
+                "text": "None of the Above",
+                "isCorrect": false
+            }
+        ]
+    }
+]
+
